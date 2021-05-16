@@ -1,4 +1,4 @@
-# page 1
+# 第一个测试页
 a simple page
 
-link to [home page](./)
+[回到主页](/)
